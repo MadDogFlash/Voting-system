@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MadDogFlash/Voting-system/static/css/main.4289073e.chunk.css",
+    "main.js": "/MadDogFlash/Voting-system/static/js/main.24cbe713.chunk.js",
+    "main.js.map": "/MadDogFlash/Voting-system/static/js/main.24cbe713.chunk.js.map",
+    "runtime-main.js": "/MadDogFlash/Voting-system/static/js/runtime-main.7ff64555.js",
+    "runtime-main.js.map": "/MadDogFlash/Voting-system/static/js/runtime-main.7ff64555.js.map",
+    "static/js/2.e91896fb.chunk.js": "/MadDogFlash/Voting-system/static/js/2.e91896fb.chunk.js",
+    "static/js/2.e91896fb.chunk.js.map": "/MadDogFlash/Voting-system/static/js/2.e91896fb.chunk.js.map",
+    "index.html": "/MadDogFlash/Voting-system/index.html",
+    "precache-manifest.5b797d5a85af8bfacbc25d4f2a97930d.js": "/MadDogFlash/Voting-system/precache-manifest.5b797d5a85af8bfacbc25d4f2a97930d.js",
+    "service-worker.js": "/MadDogFlash/Voting-system/service-worker.js",
+    "static/css/main.4289073e.chunk.css.map": "/MadDogFlash/Voting-system/static/css/main.4289073e.chunk.css.map",
+    "static/js/2.e91896fb.chunk.js.LICENSE.txt": "/MadDogFlash/Voting-system/static/js/2.e91896fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ff64555.js",
+    "static/js/2.e91896fb.chunk.js",
+    "static/css/main.4289073e.chunk.css",
+    "static/js/main.24cbe713.chunk.js"
+  ]
+}
