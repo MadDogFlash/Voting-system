@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/MadDogFlash/Voting-system/precache-manifest.5b797d5a85af8bfacbc25d4f2a97930d.js"
+  "/MadDogFlash/Voting-system/precache-manifest.fe37b738fcc23f20c797f71e47a4d7f7.js"
 );
 
 self.addEventListener('message', (event) => {

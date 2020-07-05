@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "561f28c1f7d45794afe02eea0e958e8a",
+    "revision": "c15db55331bcccb1e3e4a211a86a89e4",
     "url": "/MadDogFlash/Voting-system/index.html"
   },
   {
-    "revision": "fe54d9d8fe2e49b0fbc0",
+    "revision": "06aa3cb02b5ab250db42",
     "url": "/MadDogFlash/Voting-system/static/css/main.4289073e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MadDogFlash/Voting-system/static/js/2.e91896fb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fe54d9d8fe2e49b0fbc0",
-    "url": "/MadDogFlash/Voting-system/static/js/main.24cbe713.chunk.js"
+    "revision": "06aa3cb02b5ab250db42",
+    "url": "/MadDogFlash/Voting-system/static/js/main.2fea3830.chunk.js"
   },
   {
     "revision": "6a6f0b6f748b2cd8431c",
